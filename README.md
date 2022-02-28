@@ -9,6 +9,7 @@ Try to get a high score.  Not so simple.
 Made with Unity, so that's great. Cool physics occur when you crash
 
 
+
 ## Updates
 
 ### v0.0.1
@@ -17,7 +18,7 @@ Made with Unity, so that's great. Cool physics occur when you crash
 - Changed cube color from red to a better looking cyan.
 
 
-### v0.0.2
+### v0.0.2 (current version)
 - Keeps track of your personal best
 - Added menu button to return to main menu.
 - Can customize the color of your cube.
