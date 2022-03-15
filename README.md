@@ -35,7 +35,7 @@ Made with Unity, so that's great. Cool physics occur when you crash
  - Started working on community levels
  - Brand new level editor, with VERY basic functionaliy
  
-  ####Major bug fixes:
+  **Major bug fixes:**
   - Made all the levels availble in WebGL build
   - Fixed super fast player glitch.
   - Fixed the problem with the databse not connecting properly
