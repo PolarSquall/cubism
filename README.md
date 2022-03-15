@@ -9,7 +9,7 @@ Try to get a high score.  Not so simple.
 
 ### Details
 
-Made with Unity, so that's great. Cool physics occur when you crash
+Made with Unity, so that's great. Cool physics occur when you crash.
 
 
 
